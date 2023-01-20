@@ -1,0 +1,31 @@
+.language-select{
+    font-size: 1.8rem;
+    color:rgb(139, 139, 139);
+    cursor: pointer;
+}
+
+.language-select::before{
+    content: "|";
+    /* margin-right: 10px; */
+    
+}
+.language-select .active{
+    color: var(--nav-text-color);
+}
+.language-select span{
+    padding: 5px 5px;
+}
+.language-select span:hover{
+    border-bottom: 2px solid orange;
+    
+}
+@media(max-width: 1200px){
+    .language-select::before{
+        content: "";
+        /* margin-right: 10px; */
+        
+    }
+    .language-select{
+        margin-bottom: 10px;
+    }
+}
