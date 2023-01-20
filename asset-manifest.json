@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lcode-site/static/css/main.3f2ae560.css",
+    "main.js": "/lcode-site/static/js/main.2e908893.js",
+    "static/js/787.e3f5220e.chunk.js": "/lcode-site/static/js/787.e3f5220e.chunk.js",
+    "static/media/worldmap.jpg": "/lcode-site/static/media/worldmap.b6fcd89711bd1c05c051.jpg",
+    "index.html": "/lcode-site/index.html",
+    "main.3f2ae560.css.map": "/lcode-site/static/css/main.3f2ae560.css.map",
+    "main.2e908893.js.map": "/lcode-site/static/js/main.2e908893.js.map",
+    "787.e3f5220e.chunk.js.map": "/lcode-site/static/js/787.e3f5220e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f2ae560.css",
+    "static/js/main.2e908893.js"
+  ]
+}
